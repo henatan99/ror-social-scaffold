@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-https://thawing-meadow-10215.herokuapp.com/users/sign_in 
+https://thawing-meadow-10215.herokuapp.com/users/sign_in
 
 ## Getting Started
 

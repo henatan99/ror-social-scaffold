@@ -4,5 +4,5 @@ class Friendship < ApplicationRecord
 
   validates :user_id, presence: true
   validates :friend_id, presence: true
-  validates :userid_friendid, presence: true, uniqueness: true  
+  validates :userid_friendid, presence: true, uniqueness: true
 end

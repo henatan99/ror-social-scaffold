@@ -23,7 +23,7 @@ Postgres: >=9.5
 
 ### Setup
 
-Instal gems with:
+Install gems with:
 
 ```
 bundle install
@@ -63,7 +63,7 @@ Open `http://localhost:3000/` in your browser.
 
 ## Contributions
 
-Contributions, issues and requests are welcome
+Contributions, issues, and requests are welcome
 
 ## Show support
 
